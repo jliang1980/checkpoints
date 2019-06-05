@@ -1,0 +1,113 @@
+body {
+
+  font-size: 16px;
+}
+
+html{
+box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;  
+}
+
+
+.container
+{
+width:414px;
+margin:0 auto;
+background-color:black;
+}
+
+nav
+{
+width:100%;
+background-color:red;
+
+}
+
+h1.stop
+{
+font-family: 'Noto Sans', sans-serif;
+color:#ffffff;
+font-size:1.2em;
+text-align:center;
+padding:3px;
+}
+
+.direction
+{
+width:100%;
+background-color:lightgray;
+}
+
+h2.direction
+{
+font-family: 'Noto Sans', sans-serif;
+color:#00000;
+font-size:1em;
+padding:5px 5px 5px 20px;
+text-transform:uppercase;
+text-align:left;
+}
+
+.bus_container
+{
+width:95%;
+background-color:#808080;
+border-radius:5px;
+padding:10px;
+margin:0 auto;
+margin-top:10px;
+
+}
+
+.col_1
+{
+width:85%;
+float:left;
+border:1px solid blue;
+
+}
+.col_2
+{
+width:15%;
+float:left;
+border:1px solid red;
+}
+
+
+.bus
+{
+font-family: 'Noto Sans', sans-serif;}
+
+.number
+{
+font-size:3em;
+color:#ffffff;
+text-align:left;
+display:block;
+vertical-align:top;
+line-height:1px;
+}
+
+
+
+.min
+{
+font-size:1.5em;
+text-align:left;
+color:#ffd700;
+vertical-align:middle;
+}
+
+.route
+{
+
+font-size:1em;
+color:#ffffff;
+text-align:left;
+line-height:1px;
+
+
+
+}
