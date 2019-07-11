@@ -56,11 +56,25 @@ padding-top:10px;
 
 
 
+
 .direction
 {
-width:100%;
-background-color:lightgray;
+font-family: 'Noto Sans', sans-serif;
 font-weight:bold;
+background-color:#e5e5e5;
+font-size:1.8em;
+color:#808080;
+border-radius:5px;
+display:inline;
+margin-left:10px;
+padding:0 5px 0 5px;
+vertical-align:super;
+}
+
+.padding
+{
+padding:0 6px 0 6px;
+
 }
 
 h2.direction
@@ -127,6 +141,7 @@ font-size:3em;
 color:#ffffff;
 text-align:left;
 line-height:1.2;
+display:inline;
 
 }
 
@@ -169,6 +184,17 @@ display:inline;
 width:20px;
 height:20px;
 vertical-align:text-bottom;
+}
+
+.misc
+{font-family: 'Noto Sans', sans-serif;
+font-weight:bold;
+background-color:#e5e5e5;
+font-size:1.2em;
+color:#808080;
+padding:5px 5px 5px 15px;
+text-transform:uppercase;
+
 }
 
 
